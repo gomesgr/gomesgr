@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá 👋 meu nome é Gabriel, seja bem vindo ao meu perfil. 😃
 
-<!--
-**gomesgr/gomesgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Como me contactar?
+> Meu linkedin:
+[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKaUA6xskJPogWuxh0Xxza_ntxoAXKsmzmNYwdY_96k4EzUgNEKbu3HBJS-xmUVMpUGAmWGC_gqIjexlvPJRselvrsjbNpul4&usqp=CAU&ec=45732302)](https://www.linkedin.com/in/gabrielragomes/)
 
-Here are some ideas to get you started:
+### Possuo conhecimento em linguagens voltadas para back-end, como por exemplo:
+- Java;
+- Python;
+- Elixir.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Também possuo certo conhecimento nos seguintes SGBD's
+- PostgreSQL (*o que mais tenho proficiência no momento*);
+- MySQL;
+- SQL Server.
+
+### Estou no momento cursando Ciência da computação.
+Já realizei projetos utilizando as linguagens acima e
+- JavaScript
+- Android (Java)
+
+Criei uma aplicação mobile chamada *Watermarker*
+> [Disponível na playstore](https://play.google.com/store/apps/details?id=com.hetch.watermarker)
+
+😉 Trabalhando em algo bacana.
