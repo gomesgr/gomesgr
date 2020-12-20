@@ -23,4 +23,6 @@ Já realizei projetos utilizando as linguagens acima e
 Criei uma aplicação mobile chamada *Watermarker*
 > [Disponível na playstore](https://play.google.com/store/apps/details?id=com.hetch.watermarker)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gomesgr)](https://github.com/anuraghazra/github-readme-stats)
+
 😉 Trabalhando em algo bacana.
