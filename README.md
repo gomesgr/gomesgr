@@ -1,8 +1,8 @@
 # Olá 👋 meu nome é Gabriel, seja bem vindo ao meu perfil. 😃
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gomesgr&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gomesgr&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Como me contactar?
 Meu linkedin:
