@@ -19,7 +19,7 @@ Meu linkedin:
 - MySQL;
 - SQL Server.
 
-### Estou no momento cursando Ciência da computação.
+### Cursei Ciência da computação.
 Já realizei projetos utilizando as linguagens acima e
 - JavaScript
 - Android (Java)
