@@ -10,10 +10,10 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gomesgr"
     media="(prefers-color-scheme: light)" 
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gomesgr" />
 </picture>
 
 ### Como me contactar?
