@@ -1,6 +1,11 @@
 # Olá 👋 meu nome é Gabriel, seja bem vindo ao meu perfil. 😃
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gomesgr&theme=flag-india&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gomesgr&theme=light&show_icons=true"
+    media="(prefers-color-scheme: light)"  
+  />
+</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,7 +17,7 @@ Meu linkedin:
 ### Possuo conhecimento em linguagens voltadas para back-end, como por exemplo:
 - Java;
 - Python;
-- Elixir.
+- Typescript.
 
 ### Também possuo certo conhecimento nos seguintes SGBD's
 - PostgreSQL (*o que mais tenho proficiência no momento*);
