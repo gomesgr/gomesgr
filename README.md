@@ -5,6 +5,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=gomesgr&theme=light&show_icons=true"
     media="(prefers-color-scheme: light)"  
   />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomesgr&show_icons=true" />
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesgr&langs_count=4&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
