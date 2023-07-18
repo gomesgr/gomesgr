@@ -8,14 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gomesgr&show_icons=true" />
 </picture>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@gomesgr"
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gomesgr" />
-</picture>
-
 ### Como me contactar?
 Meu linkedin:
 
