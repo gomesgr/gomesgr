@@ -1,5 +1,5 @@
 # Olá 👋 meu nome é Gabriel, seja bem vindo ao meu perfil. 😃
-
+[![wakatime](https://wakatime.com/badge/user/12727fd3-9c62-4a7e-864c-ff73cf106979.svg)](https://wakatime.com/@12727fd3-9c62-4a7e-864c-ff73cf106979)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gomesgr&theme=light&show_icons=true"
