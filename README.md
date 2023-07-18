@@ -10,7 +10,7 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gomesgr"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@gomesgr"
     media="(prefers-color-scheme: light)" 
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gomesgr" />
